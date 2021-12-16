@@ -1,0 +1,7 @@
+com\aoko\asami\serverinfo\commands\rules.class
+com\aoko\asami\serverinfo\commands\owner.class
+com\aoko\asami\serverinfo\commands\ip.class
+com\aoko\asami\serverinfo\commands\discord.class
+com\aoko\asami\serverinfo\ServerInfo.class
+com\aoko\asami\serverinfo\commands\donate.class
+com\aoko\asami\serverinfo\commands\wiki.class

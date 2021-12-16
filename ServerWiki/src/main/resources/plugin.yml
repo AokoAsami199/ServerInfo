@@ -1,0 +1,25 @@
+name: ServerInfo
+version: '${project.version}'
+main: com.aoko.asami.serverinfo.ServerInfo
+api-version: 1.17
+website: https://github.com/aokoasami199
+
+loadbefore:
+  - Essentials
+  - DiscordSRV
+
+commands:
+  wiki:
+    description: "Aoko SMP Wiki"
+  discord:
+    description: "Aoko SMP Discord"
+  ip:
+    description: "Show all of the IPs of the SMP"
+  owner:
+    description: "Owner"
+  donate:
+    description: "Donate information"
+  rule:
+    description: "Aoko SMP Rules"
+  rules:
+    description: "Aoko SMP Rules"
