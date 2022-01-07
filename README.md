@@ -1,5 +1,5 @@
-----------------ServerInfo----------------
-- Code By AokoAsami199                   -
-- Info: https://aokoasami199.carrd.co/   -
-- Using Maven or download it in release
-------------------------------------------
+-------------------ServerInfo-------------------
+- Code By AokoAsami199                         -
+- Info: https://aokoasami199.carrd.co/         -
+- Using Maven or download jar file in Releases -
+------------------------------------------------
